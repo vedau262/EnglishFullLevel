@@ -1,5 +1,5 @@
 {
-	"s_load_admob_first":"true",
+	"s_load_admob_first":"false",
 	"s_had_ads_when_play_video":"false",
 	"s_had_admob_banner":"true",
 	"s_had_admob_interstitial":"true",
@@ -9,6 +9,6 @@
 	"m_interstitial_frame_show":"15",
 	"s_had_fan_banner":"true",
 	"s_had_fan_interstitial":"true",
-	"fan_banner_ad_unit_id":"744666835723744_961143147409444",
-	"fan_interstitial_full_screen_id":"744666835723744_961143980742694"
+	"fan_banner_ad_unit_id":"264217368223307_264218104889900",
+	"fan_interstitial_full_screen_id":"264217368223307_264217641556613"
 }  
